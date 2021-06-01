@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{87:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return u}));var o=e(0),c=e.n(o),r=e(2);function u(){return c.a.createElement(r.c,{to:"/docs/intro"})}}}]);
